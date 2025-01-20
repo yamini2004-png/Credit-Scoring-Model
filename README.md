@@ -1,2 +1,2 @@
-# Credit-Scoring-Model
-ML PROJECT
+# Machine-Learning-
+machine learning algorithm
